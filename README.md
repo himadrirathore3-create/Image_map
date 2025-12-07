@@ -180,7 +180,7 @@ urlpatterns = [
 </head>
 
 <body>
-    <img src="Umaid.jpg" alt="umaid" usemap="#imap" >
+    <img src="{% static 'Umaid.jpg' %}" alt="umaid" usemap="#imap" >
     <h2>Jodhpur</h2>
     <h3>Palace</h3>
     <hr>
@@ -204,7 +204,7 @@ urlpatterns = [
     <h3>Himadri (25011498)</h3>
 
     <div class="map-container">
-        <img src="jodhpur.png" usemap="#image-map" alt="jodhpur map">
+        <img src="{% static 'jodhpur.png' %}" usemap="#image-map" alt="jodhpur map">
     </div>
 
     <map name="image-map">
@@ -312,7 +312,7 @@ urlpatterns = [
 </head>
 
 <body>
-    <img src="Luni-Tourism-1.jpg" alt="jodhpur" usemap="#imap" >
+    <img src="{% static 'Luni-Tourism-1.jpg' %} alt="jodhpur" usemap="#imap" >
     <h2>Rajasthan</h2>
     <h3>Luni</h3>
     <hr>
@@ -395,7 +395,7 @@ urlpatterns = [
 </head>
 
 <body>
-    <img src="mogra.jpeg" alt="jodhpur" usemap="#imap" >
+    <img src={% static 'mogra.jpeg' %}" alt="jodhpur" usemap="#imap" >
     <h2>Mogra</h2>
     <h3>Jasmine Flower</h3>
     <hr>
@@ -476,7 +476,7 @@ urlpatterns = [
 </head>
 
 <body>
-    <img src="korna.jpeg" alt="jodhpur" usemap="#imap" >
+    <img src={% static 'korna.jpeg' %} alt="jodhpur" usemap="#imap" >
     <h2>Korna</h2>
     <h3>Village</h3>
     <hr>
