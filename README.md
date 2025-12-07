@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:1/12/2025
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -108,8 +108,8 @@ urlpatterns = [
             border: 2px solid #000;
             padding: 5px;
         }
-```
-```
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -195,7 +195,6 @@ urlpatterns = [
 </html>
 
 
-```
     </style>
 </head>
 <body>
@@ -242,13 +241,12 @@ urlpatterns = [
 
 </body>
 </html>
-```
-```
+
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>Rajasthan</title>
-
     <style>
          h1{text-align: center;color:rgb(165, 42, 142);}
         img{
@@ -327,13 +325,12 @@ urlpatterns = [
 
 </body>
 </html>
-```
-```
+
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>Mogra</title>
-
     <style>
         h1{text-align: center;color:rgb(42, 165, 61);}
         img{
@@ -412,8 +409,7 @@ urlpatterns = [
 
 </body>
 </html>
-```
-```
+
 
 <!DOCTYPE html>
 <html>
