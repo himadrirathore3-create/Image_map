@@ -497,11 +497,11 @@ urlpatterns = [
 ```
 ```
 # OUTPUT
-c:\Users\acer\Pictures\Screenshots\Screenshot (16).png
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-07 225353.png
-c:\Users\acer\Pictures\Screenshots\Screenshot (18).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (17).png
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-07 011437.png
+![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot 2025-12-07 225353.png>)
+![alt text](<Screenshot 2025-12-07 005302.png>)
+![alt text](<Screenshot 2025-12-07 011437.png>)
+![alt text](<Screenshot (17).png>)
 ```
 
 # RESULT
