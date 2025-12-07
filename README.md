@@ -491,7 +491,6 @@ urlpatterns = [
 </html>
 
 ```
-```
 # OUTPUT
 ![alt text](<Screenshot (16).png>)
 ![alt text](<Screenshot 2025-12-07 225353.png>)
